@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Leon Pham
+
+<h1> 👋 Hi, I’m Leon Pham</h1>
+
+
 - 👀 I’m interested in Full-Stack Development
-- 🌱 I’m currently learning React, Twilio APIs, NodeJS and 
+- 🌱 I’m currently learning React, Twilio APIs, NodeJS, TypeScript
 - 💞️ I’m looking to collaborate on Twilio Apps
 - 📫 How to reach me: Lpham@twilio.com
+- 🍔 Favorite Foods: 🍣 🍕 🍔 🌯 🍝 🧇
 
 
 
